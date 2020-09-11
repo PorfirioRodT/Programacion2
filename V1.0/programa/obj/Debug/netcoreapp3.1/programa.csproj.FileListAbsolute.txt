@@ -1,0 +1,13 @@
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.exe
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.deps.json
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.json
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.dev.json
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.dll
+C:\Users\Natalia RodT\tarea\programa\bin\Debug\netcoreapp3.1\programa.pdb
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.csprojAssemblyReference.cache
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfoInputs.cache
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfo.cs
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.csproj.CoreCompileInputs.cache
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.dll
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.pdb
+C:\Users\Natalia RodT\tarea\programa\obj\Debug\netcoreapp3.1\programa.genruntimeconfig.cache
