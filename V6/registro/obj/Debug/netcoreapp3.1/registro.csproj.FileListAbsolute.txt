@@ -1,0 +1,13 @@
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.exe
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.deps.json
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.runtimeconfig.json
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.runtimeconfig.dev.json
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.dll
+C:\Users\Natalia RodT\V6\registro\bin\Debug\netcoreapp3.1\registro.pdb
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.csprojAssemblyReference.cache
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.AssemblyInfoInputs.cache
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.AssemblyInfo.cs
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.csproj.CoreCompileInputs.cache
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.dll
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.pdb
+C:\Users\Natalia RodT\V6\registro\obj\Debug\netcoreapp3.1\registro.genruntimeconfig.cache
