@@ -1,2 +1,3 @@
-ID, Name, Last Name, Ahorros, Bits, Password
-15,Juanito,Alimaña,32.00,960,123
+ID,Name,LastName,Savings,Password,Bits
+14,Juanito,Alimaña,21.00,1234,37
+16,Porfirio,Rodriguez,64.00,5467,325
